@@ -5,5 +5,8 @@ public class Main {
         {
             System.out.println("b is true");
         }
+        else {
+            System.out.println("b is false");
+        }
     }
 }
