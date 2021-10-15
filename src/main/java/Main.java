@@ -8,5 +8,7 @@ public class Main {
         else {
             System.out.println("b is false");
         }
+
+        int a = 1 / 0;
     }
 }
